@@ -32,7 +32,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/hgdfrfufbjrbnhub.jpg
+      url: /images/Picsart_25-11-10_17-47-56-558.jpg
     badge:
       label: This is a badge
       color: text-primary
