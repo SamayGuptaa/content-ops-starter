@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: "*   <div style=\"text-align: left\">\"Welcome! I am\_**Samay Gupta**, a dedicated\_**CSC/CSP Operator and YouTuber**\_committed to bridging the digital divide. My mission is to provide seamless access to essential\_**banking services, government schemes, and expert digital assistance**\_for my community. Beyond my service center, I share the latest digital updates and tutorials on my\_**YouTube channel**\_to keep you informed. How can I assist you with your digital needs today?\"\_\n\n    </div></div>\n\n"
+    text: "*   <div style=\"text-align: left\">\"Welcome! I am\_**Samay Gupta**, a dedicated\_**CSC/CSP Operator and YouTuber**\_committed to bridging the digital divide. My mission is to provide seamless access to essential\_**banking services, government schemes, and expert digital assistance**\_for my community. Beyond my service center, I share the latest digital updates and tutorials on my\_**YouTube channel**\_to keep you informed. How can I assist you with your digital needs today?\"\_</div>\n\n"
     actions:
       - label: Get started
         altText: ''
