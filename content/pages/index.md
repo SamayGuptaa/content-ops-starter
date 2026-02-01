@@ -62,7 +62,7 @@ sections:
         title: Instagran
         subtitle: maisamaygupta
         text: |+
-          ## ****![](https://www.instagram.com/maisamaygupta)
+
 
         actions: []
         elementId: null
