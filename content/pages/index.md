@@ -50,7 +50,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Find Us on Social Media
       color: text-dark
       styles:
         self:
