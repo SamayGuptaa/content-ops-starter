@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: SAMAY GUPTA
+      text: Welcome to the Official Portal of Sama Gupta
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
