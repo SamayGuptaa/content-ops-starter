@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Instagran
-        subtitle: Numbers Done
+        subtitle: maisamaygupta
         text: |+
           ## ****![](https://www.instagram.com/maisamaygupta)
 
