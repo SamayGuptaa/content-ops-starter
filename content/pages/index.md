@@ -12,7 +12,7 @@ sections:
     actions:
       - label: CheakOut
         altText: ''
-        url: /
+        url: /http://www.youtube.com/@SamayGuptaa
         showIcon: false
         icon: arrowRight
         iconPosition: right
