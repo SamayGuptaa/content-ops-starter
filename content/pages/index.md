@@ -83,7 +83,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/day 1.jpg
+          url: /images/Picsart_25-11-10_17-47-56-558.jpg
           styles:
             self:
               borderRadius: x-large
