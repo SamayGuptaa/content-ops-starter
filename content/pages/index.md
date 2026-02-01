@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: See Tutorial
         altText: ''
-        url: /
+        url: /http://www.youtube.com/@SamayGuptaa
         showIcon: true
         icon: arrowRight
         iconPosition: right
