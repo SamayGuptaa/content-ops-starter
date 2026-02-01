@@ -62,11 +62,7 @@ sections:
         title: Instagran
         subtitle: Numbers Done
         text: |+
-          ## @maisamaygupta
-
-
-
-
+          ## ****![](https://www.instagram.com/maisamaygupta)
 
         actions: []
         elementId: null
